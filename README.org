@@ -1,0 +1,19 @@
+#+TITLE: PixelOS-hotdog
+
+* Table of contents
+:PROPERTIES:
+:TOC:
+:END:
+:CONTENTS:
+- [[#about][About]]
+- [[#how-to-report-bugs][How To Report Bugs]]
+:END:
+
+* About
+
+This is a temporary repository which contains unofficial PixelOS releases for OnePlus 7T Pro.
+
+
+* How To Report Bugs
+
+You can report bugs by opening an issue or sending logs at [[https://t.me/knightschat][here]] or in [[https://t.me/cyberknight777][my PM]].
